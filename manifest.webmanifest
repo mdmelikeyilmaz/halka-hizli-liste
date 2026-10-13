@@ -1,0 +1,21 @@
+{
+  "name": "Halka Hızlı Liste",
+  "short_name": "Hızlı Liste",
+  "description": "Hızlıca görev ekle, işaretle ve sakla",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7effe",
+  "theme_color": "#ecf3ff",
+  "lang": "tr",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
